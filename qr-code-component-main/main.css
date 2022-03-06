@@ -23,9 +23,12 @@ body{
     display: block;
     margin-top:auto;
     z-index: 2;
-    margin:auto;
-    
-    
+    margin:auto;  
+}
+.pic{
+    width:200px;
+    height:200px;
+    border-radius: 7px;
 }
 
 h1{
